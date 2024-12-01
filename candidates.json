@@ -1,0 +1,102 @@
+[
+    {
+      "name": "João Silva",
+      "experience_years": 2,
+      "skills": ["Python", "Machine Learning"]
+    },
+    {
+      "name": "Maria Oliveira",
+      "experience_years": 4,
+      "skills": ["Python", "Machine Learning", "SQL", "Docker"]
+    },
+    {
+      "name": "Carlos Souza",
+      "experience_years": 1,
+      "skills": ["HTML", "CSS"]
+    },
+    {
+      "name": "Ana Beatriz",
+      "experience_years": 5,
+      "skills": ["Python", "SQL", "Data Analysis", "Machine Learning"]
+    },
+    {
+      "name": "Roberto Costa",
+      "experience_years": 3,
+      "skills": ["Python", "Machine Learning", "SQL", "TensorFlow"]
+    },
+    {
+      "name": "Fernanda Alves",
+      "experience_years": 6,
+      "skills": ["Python", "Data Science", "Machine Learning", "SQL"]
+    },
+    {
+      "name": "Marcos Pereira",
+      "experience_years": 2,
+      "skills": ["JavaScript", "React", "Node.js"]
+    },
+    {
+      "name": "Cláudia Nunes",
+      "experience_years": 3,
+      "skills": ["Python", "Machine Learning", "SQL", "Power BI"]
+    },
+    {
+      "name": "Ricardo Lima",
+      "experience_years": 4,
+      "skills": ["Python", "SQL", "Docker", "Kubernetes", "AWS"]
+    },
+    {
+      "name": "Patrícia Duarte",
+      "experience_years": 1,
+      "skills": ["Python", "Machine Learning"]
+    },
+    {
+      "name": "Victor Santana",
+      "experience_years": 3,
+      "skills": ["Python", "SQL", "Data Engineering"]
+    },
+    {
+      "name": "Laura Mendes",
+      "experience_years": 5,
+      "skills": ["Python", "Machine Learning", "SQL", "Deep Learning"]
+    },
+    {
+      "name": "Gabriel Santos",
+      "experience_years": 4,
+      "skills": ["Java", "Spring Boot", "MySQL"]
+    },
+    {
+      "name": "Juliana Alves",
+      "experience_years": 2,
+      "skills": ["JavaScript", "Angular", "TypeScript"]
+    },
+    {
+      "name": "Rafael Costa",
+      "experience_years": 6,
+      "skills": ["Python", "Django", "Flask"]
+    },
+    {
+      "name": "Bruna Oliveira",
+      "experience_years": 3,
+      "skills": ["C++", "C#", ".NET"]
+    },
+    {
+      "name": "Gustavo Silva",
+      "experience_years": 1,
+      "skills": ["HTML5", "CSS3", "JavaScript"]
+    },
+    {
+      "name": "Isabela Santos",
+      "experience_years": 5,
+      "skills": ["Python", "Pandas", "NumPy"]
+    },
+    {
+      "name": "Lucas Pereira",
+      "experience_years": 4,
+      "skills": ["R", "Shiny"]
+    },
+    {
+      "name": "Sofia Mendes",
+      "experience_years": 2,
+      "skills": ["SQL", "Power BI", "Tableau"]
+    }
+  ]
